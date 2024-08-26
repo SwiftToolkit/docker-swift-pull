@@ -1,0 +1,51 @@
+{
+  "originHash" : "dd771f7d94ef562cbfd0b7aeac7b0376c5761d9f96aeb66000f7e72851594d13",
+  "pins" : [
+    {
+      "identity" : "command",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tuist/command",
+      "state" : {
+        "revision" : "27270402bfb9cd65f6a8b83bdf59941a8c9ae368",
+        "version" : "0.8.0"
+      }
+    },
+    {
+      "identity" : "mockable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kolos65/Mockable",
+      "state" : {
+        "revision" : "da977ecb20974c4b1cf185f5fd38771b2d4674fb",
+        "version" : "0.0.10"
+      }
+    },
+    {
+      "identity" : "path",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tuist/Path",
+      "state" : {
+        "revision" : "25b8619f75e3d2141940a64a7b870d893164c352",
+        "version" : "0.3.3"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log",
+      "state" : {
+        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
+        "version" : "1.6.1"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax.git",
+      "state" : {
+        "revision" : "2bc86522d115234d1f588efe2bcb4ce4be8f8b82",
+        "version" : "510.0.3"
+      }
+    }
+  ],
+  "version" : 3
+}
