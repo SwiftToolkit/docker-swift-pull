@@ -38,9 +38,9 @@ struct DockerSwiftPull {
 
             if output.isError {
                 print("Error: \(outputString)")
+            } else {
+                print(outputString)
             }
-
-            print(outputString)
         }
     }
 }
